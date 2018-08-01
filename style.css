@@ -18,6 +18,8 @@ ol{
   width:100px;
   margin:0;
   padding:20px;
+  font-size: 1.5em;
+  line-height: 200%;
 }
 #grid{
   display: grid;
